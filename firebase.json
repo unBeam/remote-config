@@ -1,0 +1,33 @@
+{
+    "hosting": {
+        "public": "public",
+        "headers": [
+            {
+                "source": "/version.txt",
+                "headers": [
+                    {
+                        "key": "Cache-Control",
+                        "value": "no-cache"
+                    },
+                    {
+                        "key": "Access-Control-Allow-Origin",
+                        "value": "*"
+                    }
+                ]
+            },
+            {
+                "source": "/config.json",
+                "headers": [
+                    {
+                        "key": "Cache-Control",
+                        "value": "public, max-age=60"
+                    },
+                    {
+                        "key": "Access-Control-Allow-Origin",
+                        "value": "*"
+                    }
+                ]
+            }
+        ]
+    }
+}
