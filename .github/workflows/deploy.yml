@@ -11,7 +11,7 @@ on:
       - '.firebaserc'
       # если правишь сам workflow — пусть тоже сработает
       - '.github/workflows/**'
-  # опционально: возможность запустить руками из вкладки Actions
+  # опционально: ручной запуск из вкладки Actions
   workflow_dispatch:
 
 jobs:
