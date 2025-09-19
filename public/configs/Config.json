@@ -1,1 +1,1 @@
-{"PlayerMove.MoveSpeed":500,"Version":"1.0.45","Prices.CoinPrice":100,"Prices.GemPrice":1000,"Audio.Click":"zvuk-fotoapparata.mp3","Audio.BasePath":"/audio/","Audio.DefaultExt":".mp3","Ball.LaunchForce":100,"Ball.Bounce":100,"Ball,Drag":100}
+{"PlayerMove.MoveSpeed":500,"Version":"1.0.45","Prices.CoinPrice":100,"Prices.GemPrice":1000,"Audio.Click":"zvuk-fotoapparata.mp3","Audio.BasePath":"/audio/","Audio.DefaultExt":".mp3","Ball.LaunchForce":1000,"Ball.Bounce":100,"Ball,Drag":100}
