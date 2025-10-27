@@ -4,55 +4,63 @@
     "Title": "first",
     "Loop": "Yes",
     "Button": "CS",
-    "Video_key": "blowjob1"
+    "Video_key": "blowjob1",
+    "Preview_key": "test1"
   },
   {
     "Scene_key": "Scene/Rose/Blowjob",
     "Title": "Cumshot",
     "Loop": "No",
     "Button": "Exit",
-    "Video_key": "blowjob2"
+    "Video_key": "blowjob2",
+    "Preview_key": "test1"
   },
   {
     "Scene_key": "Scene/Rose/Blowjob_2",
     "Title": "first",
     "Loop": "Yes",
     "Button": "CS",
-    "Video_key": "keks-2"
+    "Video_key": "keks-2",
+    "Preview_key": "test1"
   },
   {
     "Scene_key": "Scene/Rose/Blowjob_2",
     "Title": "Cumshot",
     "Loop": "No",
     "Button": "Exit",
-    "Video_key": "keks-3"
+    "Video_key": "keks-3",
+    "Preview_key": "test1"
   },
   {
     "Scene_key": "Scene/Rose/fisting",
     "Title": "first",
     "Loop": "Yes",
     "Button": "Exit",
-    "Video_key": "keks-1"
+    "Video_key": "keks-1",
+    "Preview_key": "test1"
   },
   {
     "Scene_key": "Scene/Rose/Sex",
     "Title": "first",
     "Loop": "Yes",
     "Button": "Next",
-    "Video_key": "keks-1"
+    "Video_key": "keks-1",
+    "Preview_key": "test1"
   },
   {
     "Scene_key": "Scene/Rose/Sex",
     "Title": "second",
     "Loop": "Yes",
     "Button": "CS",
-    "Video_key": "keks-2"
+    "Video_key": "keks-2",
+    "Preview_key": "test1"
   },
   {
     "Scene_key": "Scene/Rose/Sex",
     "Title": "Cumshot",
     "Loop": "No",
     "Button": "Exit",
-    "Video_key": "keks-3"
+    "Video_key": "keks-3",
+    "Preview_key": "test1"
   }
 ]
