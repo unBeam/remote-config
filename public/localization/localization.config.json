@@ -9,7 +9,7 @@
     "accept_tou_pp_text": "",
     "accept_tou_link": "",
     "accept_pp_link": "",
-    "Menu_header": "",
+    "Menu_header": "Меню",
     "Tap!": "Тап!"
   },
   "Eng": {
@@ -22,7 +22,7 @@
     "accept_tou_pp_text": "",
     "accept_tou_link": "",
     "accept_pp_link": "",
-    "Menu_header": "",
+    "Menu_header": "Menu",
     "Tap!": "Тап!"
   },
   "Ua": {
@@ -35,7 +35,7 @@
     "accept_tou_pp_text": "",
     "accept_tou_link": "",
     "accept_pp_link": "",
-    "Menu_header": "",
+    "Menu_header": "Меню",
     "Tap!": "Tap!"
   },
   "Ge": {
@@ -48,7 +48,7 @@
     "accept_tou_pp_text": "",
     "accept_tou_link": "",
     "accept_pp_link": "",
-    "Menu_header": "",
+    "Menu_header": "Das Menu",
     "Tap!": ""
   }
 }
