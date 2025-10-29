@@ -1,0 +1,54 @@
+{
+  "Ru": {
+    "loading_1": "Чистим игрушки",
+    "loading_2": "Делаем make up девочкам",
+    "loading_3": "Заряжаем кристаллы",
+    "loading_4": "Начищаем \"мечи\"",
+    "settings_header": "Настройки",
+    "accept_tou_pp_header": "",
+    "accept_tou_pp_text": "",
+    "accept_tou_link": "",
+    "accept_pp_link": "",
+    "Menu_header": "",
+    "Tap!": "Тап!"
+  },
+  "Eng": {
+    "loading_1": "Cleaning toys",
+    "loading_2": "Giving girls makeup",
+    "loading_3": "Charging crystals",
+    "loading_4": "Sanding swords",
+    "settings_header": "Settings",
+    "accept_tou_pp_header": "",
+    "accept_tou_pp_text": "",
+    "accept_tou_link": "",
+    "accept_pp_link": "",
+    "Menu_header": "",
+    "Tap!": "Тап!"
+  },
+  "Ua": {
+    "loading_1": "Чистимо іграшки",
+    "loading_2": "Робимо make up дівчаткам",
+    "loading_3": "Заряджаємо кристали",
+    "loading_4": "Начищаємо \"мечі\"",
+    "settings_header": "Налаштування",
+    "accept_tou_pp_header": "",
+    "accept_tou_pp_text": "",
+    "accept_tou_link": "",
+    "accept_pp_link": "",
+    "Menu_header": "",
+    "Tap!": "Tap!"
+  },
+  "Ge": {
+    "loading_1": "Spielzeug reinigen",
+    "loading_2": "Mädchen schminken",
+    "loading_3": "Kristalle aufladen",
+    "loading_4": "Schleifschwerter",
+    "settings_header": "Einstellungen",
+    "accept_tou_pp_header": "",
+    "accept_tou_pp_text": "",
+    "accept_tou_link": "",
+    "accept_pp_link": "",
+    "Menu_header": "",
+    "Tap!": ""
+  }
+}
