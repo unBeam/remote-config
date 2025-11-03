@@ -1,31 +1,28 @@
- 
 {
   "hosting": {
     "public": "public",
-    "ignore": ["firebase.json","**/.*","**/node_modules/**"],
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "headers": [
       {
-        "source": "**",
+        "source": "/configs/**",
         "headers": [
           { "key": "Access-Control-Allow-Origin",  "value": "*" },
-          { "key": "Access-Control-Allow-Methods", "value": "GET, OPTIONS" },
-          { "key": "Access-Control-Allow-Headers", "value": "Content-Type, Cache-Control, Pragma, If-Modified-Since, Range" },
-          { "key": "Timing-Allow-Origin",          "value": "*" }
+          { "key": "Access-Control-Allow-Methods", "value": "GET, HEAD, OPTIONS" },
+          { "key": "Access-Control-Allow-Headers", "value": "Origin, X-Requested-With, Content-Type, Accept, Range, Cache-Control, Pragma, If-Modified-Since" },
+          { "key": "Access-Control-Expose-Headers","value": "Accept-Ranges, Content-Length, Content-Range" },
+          { "key": "Cache-Control",                "value": "no-store" }
         ]
       },
       {
-        "source": "**/*.json",
+        "source": "/audio/**",
         "headers": [
-          { "key": "Content-Type",  "value": "application/json; charset=utf-8" },
-          { "key": "Cache-Control", "value": "public, max-age=60" }
+          { "key": "Access-Control-Allow-Origin",  "value": "*" },
+          { "key": "Access-Control-Allow-Methods", "value": "GET, HEAD, OPTIONS" },
+          { "key": "Access-Control-Allow-Headers", "value": "Origin, X-Requested-With, Content-Type, Accept, Range, Cache-Control, Pragma, If-Modified-Since" },
+          { "key": "Access-Control-Expose-Headers","value": "Accept-Ranges, Content-Length, Content-Range" },
+          { "key": "Cache-Control",                "value": "public, max-age=60" }
         ]
-      },
-      { "source": "**/*.mp3", "headers": [
-        { "key": "Content-Type", "value": "audio/mpeg" }
-      ]},
-      { "source": "**/*.ogg", "headers": [
-        { "key": "Content-Type", "value": "audio/ogg" }
-      ]}
+      }
     ]
   }
 }
