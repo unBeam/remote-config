@@ -1,10 +1,26 @@
 {
   "hosting": {
     "public": "public",
-    "ignore": ["**/.*", "**/node_modules/**"],
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
     "headers": [
       {
         "source": "/configs/**",
+        "headers": [
+          { "key": "Access-Control-Allow-Origin",  "value": "*" },
+          { "key": "Access-Control-Allow-Methods", "value": "GET, HEAD, OPTIONS" },
+          { "key": "Access-Control-Allow-Headers", "value": "Origin, X-Requested-With, Content-Type, Accept, Range, Cache-Control, Pragma, If-Modified-Since" },
+          { "key": "Access-Control-Expose-Headers","value": "Accept-Ranges, Content-Length, Content-Range" },
+          { "key": "Cross-Origin-Resource-Policy","value": "cross-origin" },
+          { "key": "Timing-Allow-Origin",          "value": "*" },
+          { "key": "Cache-Control",                "value": "public, max-age=60" }
+        ]
+      },
+      {
+        "source": "/localization/**",
         "headers": [
           { "key": "Access-Control-Allow-Origin",  "value": "*" },
           { "key": "Access-Control-Allow-Methods", "value": "GET, HEAD, OPTIONS" },
@@ -24,9 +40,10 @@
         ]
       },
       {
-        "source": "/photo/**",
+        "source": "/audio/**",
         "headers": [
           { "key": "Access-Control-Allow-Origin",  "value": "*" },
+          { "key": "Access-Control-Expose-Headers","value": "Accept-Ranges, Content-Length, Content-Range" },
           { "key": "Cache-Control",                "value": "public, max-age=300" }
         ]
       },
@@ -34,11 +51,12 @@
         "source": "/video/**",
         "headers": [
           { "key": "Access-Control-Allow-Origin",  "value": "*" },
+          { "key": "Access-Control-Expose-Headers","value": "Accept-Ranges, Content-Length, Content-Range" },
           { "key": "Cache-Control",                "value": "public, max-age=300" }
         ]
       },
       {
-        "source": "/audio/**",
+        "source": "/photo/**",
         "headers": [
           { "key": "Access-Control-Allow-Origin",  "value": "*" },
           { "key": "Cache-Control",                "value": "public, max-age=300" }
