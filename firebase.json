@@ -1,8 +1,7 @@
 {
   "hosting": {
     "public": "public",
-    "ignore": ["firebase.json","**/.*","**/node_modules/**"],
-    "cleanUrls": true,
+    "ignore": ["**/.*", "**/node_modules/**"],
     "headers": [
       {
         "source": "/configs/**",
@@ -10,44 +9,10 @@
           { "key": "Access-Control-Allow-Origin",  "value": "*" },
           { "key": "Access-Control-Allow-Methods", "value": "GET, HEAD, OPTIONS" },
           { "key": "Access-Control-Allow-Headers", "value": "Origin, X-Requested-With, Content-Type, Accept, Range, Cache-Control, Pragma, If-Modified-Since" },
-          { "key": "Cross-Origin-Resource-Policy","value": "cross-origin" },
-          { "key": "Timing-Allow-Origin",          "value": "*" },
-          { "key": "Cache-Control",                "value": "public, max-age=60" }
-        ]
-      },
-      {
-        "source": "/localization/**",
-        "headers": [
-          { "key": "Access-Control-Allow-Origin",  "value": "*" },
-          { "key": "Access-Control-Allow-Methods", "value": "GET, HEAD, OPTIONS" },
-          { "key": "Access-Control-Allow-Headers", "value": "Origin, X-Requested-With, Content-Type, Accept, Range, Cache-Control, Pragma, If-Modified-Since" },
           { "key": "Access-Control-Expose-Headers","value": "Accept-Ranges, Content-Length, Content-Range" },
           { "key": "Cross-Origin-Resource-Policy","value": "cross-origin" },
           { "key": "Timing-Allow-Origin",          "value": "*" },
           { "key": "Cache-Control",                "value": "public, max-age=60" }
-        ]
-      },
-      {
-        "source": "/video/**",
-        "headers": [
-          { "key": "Access-Control-Allow-Origin",  "value": "*" },
-          { "key": "Access-Control-Allow-Methods", "value": "GET, HEAD, OPTIONS" },
-          { "key": "Access-Control-Allow-Headers", "value": "Origin, X-Requested-With, Content-Type, Accept, Range, Cache-Control, Pragma, If-Modified-Since" },
-          { "key": "Access-Control-Expose-Headers","value": "Accept-Ranges, Content-Length, Content-Range" },
-          { "key": "Cross-Origin-Resource-Policy","value": "cross-origin" },
-          { "key": "Timing-Allow-Origin",          "value": "*" },
-          { "key": "Cache-Control",                "value": "public, max-age=300" }
-        ]
-      },
-      {
-        "source": "/audio/**",
-        "headers": [
-          { "key": "Access-Control-Allow-Origin",  "value": "*" },
-          { "key": "Access-Control-Allow-Methods", "value": "GET, HEAD, OPTIONS" },
-          { "key": "Access-Control-Allow-Headers", "value": "Origin, X-Requested-With, Content-Type, Accept, Range, Cache-Control, Pragma, If-Modified-Since" },
-          { "key": "Cross-Origin-Resource-Policy","value": "cross-origin" },
-          { "key": "Timing-Allow-Origin",          "value": "*" },
-          { "key": "Cache-Control",                "value": "public, max-age=604800" }
         ]
       },
       {
@@ -60,6 +25,20 @@
       },
       {
         "source": "/photo/**",
+        "headers": [
+          { "key": "Access-Control-Allow-Origin",  "value": "*" },
+          { "key": "Cache-Control",                "value": "public, max-age=300" }
+        ]
+      },
+      {
+        "source": "/video/**",
+        "headers": [
+          { "key": "Access-Control-Allow-Origin",  "value": "*" },
+          { "key": "Cache-Control",                "value": "public, max-age=300" }
+        ]
+      },
+      {
+        "source": "/audio/**",
         "headers": [
           { "key": "Access-Control-Allow-Origin",  "value": "*" },
           { "key": "Cache-Control",                "value": "public, max-age=300" }
