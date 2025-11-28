@@ -62,5 +62,101 @@
     "Button": "Exit",
     "Video_key": "keks-3",
     "Preview_key": ""
+  },
+  {
+    "Scene_key": "Scene/Miara/Sex",
+    "Title": "first",
+    "Loop": "Yes",
+    "Button": "Next",
+    "Video_key": "keks-1",
+    "Preview_key": "kotan"
+  },
+  {
+    "Scene_key": "Scene/Miara/Sex",
+    "Title": "second",
+    "Loop": "Yes",
+    "Button": "CS",
+    "Video_key": "keks-2",
+    "Preview_key": ""
+  },
+  {
+    "Scene_key": "Scene/Miara/Sex",
+    "Title": "Cumshot",
+    "Loop": "No",
+    "Button": "Exit",
+    "Video_key": "keks-3",
+    "Preview_key": ""
+  },
+  {
+    "Scene_key": "Scene/Aye/Sex",
+    "Title": "first",
+    "Loop": "Yes",
+    "Button": "Next",
+    "Video_key": "keks-1",
+    "Preview_key": "kotan"
+  },
+  {
+    "Scene_key": "Scene/Aye/Sex",
+    "Title": "second",
+    "Loop": "Yes",
+    "Button": "CS",
+    "Video_key": "keks-2",
+    "Preview_key": ""
+  },
+  {
+    "Scene_key": "Scene/Aye/Sex",
+    "Title": "Cumshot",
+    "Loop": "No",
+    "Button": "Exit",
+    "Video_key": "keks-3",
+    "Preview_key": ""
+  },
+  {
+    "Scene_key": "Scene/Mirel/Sex",
+    "Title": "first",
+    "Loop": "Yes",
+    "Button": "Next",
+    "Video_key": "keks-1",
+    "Preview_key": "kotan"
+  },
+  {
+    "Scene_key": "Scene/Mirel/Sex",
+    "Title": "second",
+    "Loop": "Yes",
+    "Button": "CS",
+    "Video_key": "keks-2",
+    "Preview_key": ""
+  },
+  {
+    "Scene_key": "Scene/Mirel/Sex",
+    "Title": "Cumshot",
+    "Loop": "No",
+    "Button": "Exit",
+    "Video_key": "keks-3",
+    "Preview_key": ""
+  },
+  {
+    "Scene_key": "Scene/Aisha/Sex",
+    "Title": "first",
+    "Loop": "Yes",
+    "Button": "Next",
+    "Video_key": "keks-1",
+    "Preview_key": "kotan"
+  },
+  {
+    "Scene_key": "Scene/Aisha/Sex",
+    "Title": "second",
+    "Loop": "Yes",
+    "Button": "CS",
+    "Video_key": "keks-2",
+    "Preview_key": ""
+  },
+  {
+    "Scene_key": "Scene/Aisha/Sex",
+    "Title": "Cumshot",
+    "Loop": "No",
+    "Button": "Exit",
+    "Video_key": "keks-3",
+    "Preview_key": ""
   }
 ]
