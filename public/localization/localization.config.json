@@ -13,7 +13,15 @@
     "accept_tou_link": "",
     "accept_pp_link": "",
     "Menu_header": "Меню",
-    "Tap!": "Тап!"
+    "Tap_tap": "Тап!",
+    "startext_Check_age": "Эта игра содержит откровенный контент для взрослых.\r\nДля продолжения игры вам должно быть не менее 18 лет (или совершеннолетия в вашей стране).\r\n\r\nВсе персонажи — вымышленные взрослые.\r\nЕсли контент для взрослых запрещён в вашем регионе или вам неприятны материалы сексуального характера, пожалуйста, покиньте игру.",
+    "startext_Iam18": "МНЕ 18+",
+    "startext_Enter_button": "ВОЙТИ",
+    "startext_Terms_of_Use": "Terms of Use",
+    "startext_Privacy_Policy": "Privacy Policy",
+    "startext_agreements": "Пожалуйста, ознакомьтесь с Условиями использования и Политикой конфиденциальности.\nНажимая «Я принимаю», вы подтверждаете, что:\n\n- Вы соглашаетесь с этими документами,\n- Вы понимаете, как используются ваши данные,\n- Вы принимаете правила Сервиса.\n\n<color=#3ac2f0><u><link=\"https://astraladventura.games/ftap-terms-of-use\">Пользовательское соглашение</link></u></color>\n<color=#3ac2f0><u><link=\"https://astraladventura.games/ftap-privacy-policy\">Политика конфиденциальности</link></u></color>",
+    "startext_accept": "Я Принимаю",
+    "startext_exit": "Выйти"
   },
   "Eng": {
     "loading_1": "Cleaning toys",
@@ -29,7 +37,15 @@
     "accept_tou_link": "",
     "accept_pp_link": "",
     "Menu_header": "Menu",
-    "Tap!": "Тап!"
+    "Tap_tap": "Tap!",
+    "startext_Check_age": "This game contains explicit adult content.\nYou must be 18+ (or the legal age of majority in your country) to continue.\n\nAll characters are fictional adults.\nIf adult content is illegal in your region or you are uncomfortable with sexual material, please exit now.",
+    "startext_Iam18": "I AM 18+",
+    "startext_Enter_button": "ENTER",
+    "startext_Terms_of_Use": "Terms of Use",
+    "startext_Privacy_Policy": "Privacy Policy",
+    "startext_agreements": "Please read our Terms of Use and Privacy Policy.\nBy pressing “I Accept”, you confirm that:\n\n- You agree to these documents,\n- You understand how your data is used,\n- You accept the rules of the Service.\n\n<color=#3ac2f0><u><link=\"https://astraladventura.games/ftap-terms-of-use\">Terms of Use</link></u></color>\n<color=#3ac2f0><u><link=\"https://astraladventura.games/ftap-privacy-policy\">Privacy Policy</link></u></color>",
+    "startext_accept": "I accept",
+    "startext_exit": "Exit"
   },
   "Ua": {
     "loading_1": "Чистимо іграшки",
@@ -45,7 +61,15 @@
     "accept_tou_link": "",
     "accept_pp_link": "",
     "Menu_header": "Меню",
-    "Tap!": "Tap!"
+    "Tap_tap": "Тап!",
+    "startext_Check_age": "",
+    "startext_Iam18": "",
+    "startext_Enter_button": "",
+    "startext_Terms_of_Use": "",
+    "startext_Privacy_Policy": "",
+    "startext_agreements": "Будь ласка, ознайомтеся з Умовами користування та Політикою конфіденційності.\nНатискаючи “Я приймаю”, ви підтверджуєте, що:\n\n- Ви погоджуєтеся з цими документами,\n- Ви розумієте, як використовуються ваші дані,\n- Ви приймаєте правила Сервісу.\n\n<color=#3ac2f0><u><link=\"https://astraladventura.games/ftap-terms-of-use\">Умови використання</link></u></color>\n<color=#3ac2f0><u><link=\"https://astraladventura.games/ftap-privacy-policy\">Політика конфіденційності</link></u></color>",
+    "startext_accept": "Я ПРИЙМАЮ",
+    "startext_exit": "ВИХІД"
   },
   "Ge": {
     "loading_1": "Spielzeug reinigen",
@@ -61,6 +85,14 @@
     "accept_tou_link": "",
     "accept_pp_link": "",
     "Menu_header": "Menü",
-    "Tap!": ""
+    "Tap_tap": "Tap!",
+    "startext_Check_age": "",
+    "startext_Iam18": "",
+    "startext_Enter_button": "",
+    "startext_Terms_of_Use": "",
+    "startext_Privacy_Policy": "",
+    "startext_agreements": "Bitte lesen Sie unsere Nutzungsbedingungen und Datenschutzrichtlinie.\nWenn Sie „Ich akzeptiere“ drücken, bestätigen Sie:\n\n- Sie stimmen diesen Dokumenten zu,\n- Sie verstehen, wie Ihre Daten verwendet werden,\n- Sie akzeptieren die Regeln des Dienstes.\n\n<color=#3ac2f0><u><link=\"https://astraladventura.games/ftap-terms-of-use\">Nutzungsbedingungen</link></u></color>\n<color=#3ac2f0><u><link=\"https://astraladventura.games/ftap-privacy-policy\">Datenschutzerklärung</link></u></color>",
+    "startext_accept": "[ICH AKZEPTIERE]",
+    "startext_exit": "[BEENDEN]"
   }
 }
