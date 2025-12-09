@@ -88,6 +88,54 @@
     "Preview_key": ""
   },
   {
+    "Scene_key": "Scene/Miara/Sex_2",
+    "Title": "first",
+    "Loop": "Yes",
+    "Button": "Next",
+    "Video_key": "keks-1",
+    "Preview_key": "kotan"
+  },
+  {
+    "Scene_key": "Scene/Miara/Sex_2",
+    "Title": "second",
+    "Loop": "Yes",
+    "Button": "CS",
+    "Video_key": "keks-2",
+    "Preview_key": ""
+  },
+  {
+    "Scene_key": "Scene/Miara/Sex_2",
+    "Title": "Cumshot",
+    "Loop": "No",
+    "Button": "Exit",
+    "Video_key": "keks-3",
+    "Preview_key": ""
+  },
+  {
+    "Scene_key": "Scene/Miara/Sex_3",
+    "Title": "first",
+    "Loop": "Yes",
+    "Button": "Next",
+    "Video_key": "keks-1",
+    "Preview_key": "kotan"
+  },
+  {
+    "Scene_key": "Scene/Miara/Sex_3",
+    "Title": "second",
+    "Loop": "Yes",
+    "Button": "CS",
+    "Video_key": "keks-2",
+    "Preview_key": ""
+  },
+  {
+    "Scene_key": "Scene/Miara/Sex_3",
+    "Title": "Cumshot",
+    "Loop": "No",
+    "Button": "Exit",
+    "Video_key": "keks-3",
+    "Preview_key": ""
+  },
+  {
     "Scene_key": "Scene/Aye/Sex",
     "Title": "first",
     "Loop": "Yes",
@@ -105,6 +153,54 @@
   },
   {
     "Scene_key": "Scene/Aye/Sex",
+    "Title": "Cumshot",
+    "Loop": "No",
+    "Button": "Exit",
+    "Video_key": "keks-3",
+    "Preview_key": ""
+  },
+  {
+    "Scene_key": "Scene/Aye/Sex_2",
+    "Title": "first",
+    "Loop": "Yes",
+    "Button": "Next",
+    "Video_key": "keks-1",
+    "Preview_key": "kotan"
+  },
+  {
+    "Scene_key": "Scene/Aye/Sex_2",
+    "Title": "second",
+    "Loop": "Yes",
+    "Button": "CS",
+    "Video_key": "keks-2",
+    "Preview_key": ""
+  },
+  {
+    "Scene_key": "Scene/Aye/Sex_2",
+    "Title": "Cumshot",
+    "Loop": "No",
+    "Button": "Exit",
+    "Video_key": "keks-3",
+    "Preview_key": ""
+  },
+  {
+    "Scene_key": "Scene/Aye/Sex_3",
+    "Title": "first",
+    "Loop": "Yes",
+    "Button": "Next",
+    "Video_key": "keks-1",
+    "Preview_key": "kotan"
+  },
+  {
+    "Scene_key": "Scene/Aye/Sex_3",
+    "Title": "second",
+    "Loop": "Yes",
+    "Button": "CS",
+    "Video_key": "keks-2",
+    "Preview_key": ""
+  },
+  {
+    "Scene_key": "Scene/Aye/Sex_3",
     "Title": "Cumshot",
     "Loop": "No",
     "Button": "Exit",
