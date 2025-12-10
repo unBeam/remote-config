@@ -21,7 +21,11 @@
     "startext_Privacy_Policy": "Privacy Policy",
     "startext_agreements": "Пожалуйста, ознакомьтесь с Условиями использования и Политикой конфиденциальности.\nНажимая «Я принимаю», вы подтверждаете, что:\n\n- Вы соглашаетесь с этими документами,\n- Вы понимаете, как используются ваши данные,\n- Вы принимаете правила Сервиса.\n\n<color=#3ac2f0><u><link=\"https://astraladventura.games/ftap-terms-of-use\">Пользовательское соглашение</link></u></color>\n<color=#3ac2f0><u><link=\"https://astraladventura.games/ftap-privacy-policy\">Политика конфиденциальности</link></u></color>",
     "startext_accept": "Я Принимаю",
-    "startext_exit": "Выйти"
+    "startext_exit": "Выйти",
+    "profile_description_Aye": "Аи - моя живая батарейка. Постоянно шутит, а морских баек у неё столько, будто она лично дружит со всеми русалками побережья. И вот вроде слушаю пятую подряд историю о том, как «волна была вот такой высоооокой», а смеюсь всё равно.\n\nПосле тяжёлого дня Аи неизменно открывает пиво. И, конечно, у неё всегда припасена рыбка. Мне кажется, если однажды рыба исчезнет, Аи лично пойдёт разбираться с океаном.\n\nИ вот Миара… Эта вообще артистка. Заходит к Аи «на минутку», а потом утром выходит такая довольная, растрёпанная, как будто ночью боролась с бурей… или не только с бурей. Я уже не спрашиваю — просто записываю, чтобы потом не забыть, как вчера они обе вывалились на крыльцо с утра, хохоча, как чайки на рассвете.",
+    "profile_description_Miara": "Миара… Ну вот кому скажи — не поверят. А я ведь правду записываю: встретил как-то говорящую кошку. Да-да, настоящую. С ушами, хвостиком и таким акцентом, что я сначала ничего не понял, а потом как понял.\r\n\r\nПопытался выяснить, откуда она родом — и тут же понял, насколько я ноль в географии. Она так серьёзно произнесла название места, что я просто кивал, делая вид, будто понимаю, где это… хотя внутри у меня крутилась только фраза: «Это точно на этой планете?»\r\n\r\nГлаза у неё — просто завораживают. Смотришь, и забываешь, как дышать. А хвост… ну… этот её хвост так заманчиво покачивается, будто специально дразнит. Иногда я ловлю себя на мысли, что хочу узнать, что же там под хвостиком — чисто научный интерес, конечно же!\r\n\r\nИ вот думаю: а вдруг однажды она решит остаться? И стать моей… кошкой-женой? Звучит безумно, но честно — я бы не отказался.",
+    "profile_description_Mirel": "Мирель… С ней особо не поболтаешь — она разговаривает только по делу, а всё остальное считает тратой времени и магического кислорода. Живёт в огромном особняке, и по ней сразу видно: девушка богатая, умная и слегка опасная, если у неё в руках колба или книга потолще кирпича.\r\n\r\nОна постоянно проводит свои магические эксперименты. То дым повалит, то искры, то такой свет хлестанёт, что я ночью подумал, будто кто-то включил запасное солнце. Хотя… может, это не эксперимент был, а вечеринка?\r\n\r\nКогда Аиша заглядывает в гости, у Мирель в особняке тихо не бывает. Эти двое могут закатить такую хату-пати, что половина магических артефактов потом обижается и перестаёт работать.\r\n\r\nУ Мирель ещё и магазин есть — загадочный, как она сама. Ассортимент меняется каждый день, будто вещи там сами устраивают кастинг, кто сегодня будет продаваться.",
+    "profile_description_Aisha": "Аиша… младшая дочка нашего местного короля. И, честно говоря, единственная из их семейки, кто способен регулярно сбегать из дворца, чтобы тусить у Мирель. Видимо, роскошные приёмы и бесконечные поклоны быстро надоедают, когда ты юная, красивая и уверена, что мир создан для твоего удобства.\r\n\r\nНе скажу, что она простушка или что любит смешиваться с народом. О нет. По ней с первого взгляда видно: она власть. Она властность. Она в целом идёт по жизни так, будто ей уже выдали сертификат на управление людьми.\r\n\r\nЕё одного взгляда хватает, чтобы ты мгновенно понял, кто ты, зачем ты, и какое именно место тебе назначено во вселенной. \r\nОчевидно, всему этому она научилась у своего папаши-королька. Только вот у неё это получается куда эффектнее. Король — просто король. А Аиша — королева «потому что я так сказала»."
   },
   "Eng": {
     "loading_1": "Cleaning toys",
@@ -45,7 +49,11 @@
     "startext_Privacy_Policy": "Privacy Policy",
     "startext_agreements": "Please read our Terms of Use and Privacy Policy.\nBy pressing “I Accept”, you confirm that:\n\n- You agree to these documents,\n- You understand how your data is used,\n- You accept the rules of the Service.\n\n<color=#3ac2f0><u><link=\"https://astraladventura.games/ftap-terms-of-use\">Terms of Use</link></u></color>\n<color=#3ac2f0><u><link=\"https://astraladventura.games/ftap-privacy-policy\">Privacy Policy</link></u></color>",
     "startext_accept": "I accept",
-    "startext_exit": "Exit"
+    "startext_exit": "Exit",
+    "profile_description_Aye": "",
+    "profile_description_Miara": "",
+    "profile_description_Mirel": "",
+    "profile_description_Aisha": ""
   },
   "Ua": {
     "loading_1": "Чистимо іграшки",
@@ -65,11 +73,15 @@
     "startext_Check_age": "",
     "startext_Iam18": "",
     "startext_Enter_button": "",
-    "startext_Terms_of_Use": "",
+    "startext_Terms_of_Use": "Terms of Use",
     "startext_Privacy_Policy": "",
     "startext_agreements": "Будь ласка, ознайомтеся з Умовами користування та Політикою конфіденційності.\nНатискаючи “Я приймаю”, ви підтверджуєте, що:\n\n- Ви погоджуєтеся з цими документами,\n- Ви розумієте, як використовуються ваші дані,\n- Ви приймаєте правила Сервісу.\n\n<color=#3ac2f0><u><link=\"https://astraladventura.games/ftap-terms-of-use\">Умови використання</link></u></color>\n<color=#3ac2f0><u><link=\"https://astraladventura.games/ftap-privacy-policy\">Політика конфіденційності</link></u></color>",
     "startext_accept": "Я ПРИЙМАЮ",
-    "startext_exit": "ВИХІД"
+    "startext_exit": "ВИХІД",
+    "profile_description_Aye": "",
+    "profile_description_Miara": "",
+    "profile_description_Mirel": "",
+    "profile_description_Aisha": ""
   },
   "Ge": {
     "loading_1": "Spielzeug reinigen",
@@ -93,6 +105,10 @@
     "startext_Privacy_Policy": "",
     "startext_agreements": "Bitte lesen Sie unsere Nutzungsbedingungen und Datenschutzrichtlinie.\nWenn Sie „Ich akzeptiere“ drücken, bestätigen Sie:\n\n- Sie stimmen diesen Dokumenten zu,\n- Sie verstehen, wie Ihre Daten verwendet werden,\n- Sie akzeptieren die Regeln des Dienstes.\n\n<color=#3ac2f0><u><link=\"https://astraladventura.games/ftap-terms-of-use\">Nutzungsbedingungen</link></u></color>\n<color=#3ac2f0><u><link=\"https://astraladventura.games/ftap-privacy-policy\">Datenschutzerklärung</link></u></color>",
     "startext_accept": "[ICH AKZEPTIERE]",
-    "startext_exit": "[BEENDEN]"
+    "startext_exit": "[BEENDEN]",
+    "profile_description_Aye": "",
+    "profile_description_Miara": "",
+    "profile_description_Mirel": "",
+    "profile_description_Aisha": ""
   }
 }
