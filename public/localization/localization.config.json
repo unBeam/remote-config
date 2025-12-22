@@ -98,7 +98,13 @@
     "minigame_popup_Notif": "Предупреждение",
     "minigame_popup_Exit_text": "Вы хотите вернуться в лобби?\r\nВаш прогресс будет потерян.",
     "minigame_button_Exit_YES": "ДА",
-    "minigame_button_Exit_NO": "НЕТ"
+    "minigame_button_Exit_NO": "НЕТ",
+    "onboarding_scene_1": "Я так рада, что кто то согласился нам помочь.",
+    "onboarding_scene_2": "Пойдем, я тебе все покажу.",
+    "onboarding_scene_3": "Найди мне пару вещичек и я тебя отблагодарю.",
+    "onboarding_scene_4": "У меня для тебя кое что есть. Ты любишь сладкое?",
+    "Onboarding_popup_Skills": "",
+    "Onboarding_popup_equipment": ""
   },
   "Eng": {
     "loading_1": "Cleaning toys",
@@ -199,7 +205,13 @@
     "minigame_popup_Notif": "Notification",
     "minigame_popup_Exit_text": "Would you like to return to lobby?\nYour progress will be lost.",
     "minigame_button_Exit_YES": "YES",
-    "minigame_button_Exit_NO": "NO"
+    "minigame_button_Exit_NO": "NO",
+    "onboarding_scene_1": "I’m so glad someone finally agreed to help us.",
+    "onboarding_scene_2": "Come on, I’ll show you everything.",
+    "onboarding_scene_3": "Find a couple of items for me and I’ll reward you.",
+    "onboarding_scene_4": "I’ve got something for you. Do you have a sweet tooth?",
+    "Onboarding_popup_Skills": "",
+    "Onboarding_popup_equipment": ""
   },
   "Ua": {
     "loading_1": "Чистимо іграшки",
@@ -300,7 +312,13 @@
     "minigame_popup_Notif": "Попередження",
     "minigame_popup_Exit_text": "Бажаєте повернутися до лобі?\nВаш прогрес буде втрачено.",
     "minigame_button_Exit_YES": "ТАК",
-    "minigame_button_Exit_NO": "НІ"
+    "minigame_button_Exit_NO": "НІ",
+    "onboarding_scene_1": "Я так рада, що хтось погодився нам допомогти.",
+    "onboarding_scene_2": "Ходімо, я тобі все покажу.",
+    "onboarding_scene_3": "Знайди для мене кілька речей і я тебе винагороджу.",
+    "onboarding_scene_4": "У мене для тебе дещо є. Ти любиш солодке?",
+    "Onboarding_popup_Skills": "",
+    "Onboarding_popup_equipment": ""
   },
   "Ge": {
     "loading_1": "Spielzeug reinigen",
@@ -401,6 +419,12 @@
     "minigame_popup_Notif": "",
     "minigame_popup_Exit_text": "",
     "minigame_button_Exit_YES": "",
-    "minigame_button_Exit_NO": ""
+    "minigame_button_Exit_NO": "",
+    "onboarding_scene_1": "",
+    "onboarding_scene_2": "",
+    "onboarding_scene_3": "",
+    "onboarding_scene_4": "",
+    "Onboarding_popup_Skills": "",
+    "Onboarding_popup_equipment": ""
   }
 }
